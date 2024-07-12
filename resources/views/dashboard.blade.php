@@ -7,5 +7,6 @@
 
     <div class="py-12">
         <livewire:counter />
+        <livewire:create-user />
     </div>
 </x-app-layout>
